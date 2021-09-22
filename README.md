@@ -7,7 +7,7 @@ Just select your favourite Trainer and Bunicoin and the extension will automatic
 
 Enjoy and have fun with the game!
 
-[![Screenshot-1](hscreenshot-1.jpg)](Screenshot-1)
+[![Screenshot-1](screenshot-1.jpg)](Screenshot-1)
 
 # How to install:
 - Extract above archive into your persistent drive (Try not to put in Desktop or Downloads folder)
