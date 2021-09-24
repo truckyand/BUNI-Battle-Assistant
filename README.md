@@ -9,7 +9,11 @@ Enjoy and have fun with the game!
 
 [![Screenshot-1](screenshot-1.jpg)](Screenshot-1)
 
-# How to install:
+# Chrome Web Store
+This build can be found on Chrome Web Store
+https://chrome.google.com/webstore/detail/buni-battle-assistant/bmkaoogjkfcjeamcedpeomegdnimbkhi/related?hl=en-US
+
+# How to manual install:
 - Extract above archive into your persistent drive (Try not to put in Desktop or Downloads folder)
 - In Chrome, go to Menu > More tools > Extensions
 - Toggle on the "Developer mode"
