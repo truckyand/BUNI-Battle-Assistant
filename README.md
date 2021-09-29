@@ -22,12 +22,19 @@ https://chrome.google.com/webstore/detail/buni-battle-assistant/bmkaoogjkfcjeamc
 On the Battle screen of Bunicorn game, after select Trainer and Bunicoin, click to any space on the screen 
 Enjoy the game!
 
+# How to manual install (Video)
+Please follow the instruction here to install from Github.
+[https://youtu.be/gj1cyrRTqEE](https://youtu.be/gj1cyrRTqEE)
+
+English video: [https://youtu.be/zyw92h9sJt4](https://youtu.be/zyw92h9sJt4)
+
 # Disclaimer:
 - This extension is using HTML manipulation to read the Bunicorn Battle information, so it is not always accurate. Use it as your own risk.
 - The information provided by this extension are mainly for your reference only. You're response for your own choice in the battle.
 
 # Contact:
 Facebook: [truckyand](https://www.facebook.com/anhlongcongtu)
-If you find this extension is useful, buy me a beer at **0xCad931D86bDB16E8d6e252F995F6904d4F416147**
+If you find this extension is useful, buy me a beer at my BSC-BEP20 wallet **0xCad931D86bDB16E8d6e252F995F6904d4F416147**
+BUNI/BUR/ZOON/USDT are welcome
 
 Formula referenced from [harrytrinh](https://t.me/harrytrinh)
